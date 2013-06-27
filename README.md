@@ -1,8 +1,6 @@
 homebrew strategy for installing
 [deliver](https://github.com/gerhard/deliver), a pure bash deployment
-tool with customisable strategies.
-
-### Usage
+tool with customisable strategies
 
 ```shell
 $ brew update
