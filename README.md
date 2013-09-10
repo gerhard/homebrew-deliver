@@ -5,5 +5,5 @@ tool with customisable strategies
 ```shell
 $ brew update
 $ brew tap gerhard/homebrew-deliver
-$ brew install deliver
+$ brew install deliver --HEAD
 ```
