@@ -3,7 +3,7 @@ homebrew strategy for installing
 tool with customisable strategies
 
 ```shell
-$ brew update
-$ brew tap gerhard/homebrew-deliver
-$ brew install deliver --HEAD
+brew update
+brew tap gerhard/homebrew-deliver
+brew install deliver --HEAD
 ```
